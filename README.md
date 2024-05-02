@@ -1,8 +1,8 @@
 # zdzi0994_10
 
-Week 8 Assignment 
+Week 8 Quizz
 
-<h1>**Part 1: Imaging Technique Inspiration**</h1>
+<h1>Part 1: Imaging Technique Inspiration</h1>
 
 <h2>Audio Reactive to Visuals<h/2>
 
@@ -12,23 +12,25 @@ Week 8 Assignment
 
 Example 1
 Pac Man Arcade Game
-![Image of Pac Man Game](assets/PacManScreenshot.png)
-##(CNN, 2020)
 
-![Video of Pac-Man Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A)
+![Image of Pac Man Game](assets/PacManScreenshot.png)
+<h5>(CNN, 2020)</h5>
+
+![Click to Watch Pac-Man Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A)
+
 
 Example 2
 ![Image of Tetris](assets/TetrisScreenshot.png)
-##(Guardian, 2024)
+<h5>(Guardian, 2024)</h5>
 
-![Video Tetris Gameplay](https://www.youtube.com/watch?v=CvUK-YWYcaE)
-
-
+![Click to Watch Tetris Gameplay](https://www.youtube.com/watch?v=CvUK-YWYcaE)
 
 
-Part 2: Coding Technique Exploration
 
-Audio reactive visuals use p5.js to create visuals which are generated/manipulated through sound. p5.js can read sound through amplitude or frequency which can be inputted through a microphone or by uploading a track into p5 and analysing the frequency using fft methods. Learning how to use the fft method can be useful for the major project as it can help us manipulate our groups chosen painting through reaction to different sounds. As we are considering mimicking an arcade game for our final project, it could be interesting to use arcade sounds to affect the representation of the painting 
+
+<h1>Part 2: Coding Technique Exploration</h1>
+
+To create sound effects based on user interaction we would need to employ the p5.SoundFile functions, first using soundUpload() to upload our sounds to the library. To deploy, it is important to consider soundFormats() for compatibility across different web browsers. The idea here would be to attach play() and pause() functions to user and/or object interactions through if/else statements. Furthermore, using sound we can enhance the user's experience by creating a dynamic game interface through analysing and using volume and amplitude. We can analyse these variables using FFT() giving us parameters to work with. Another approach would be to allow users to use their microphone (mic()) and control the game using their voice. 
 
 
 
