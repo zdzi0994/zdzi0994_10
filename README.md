@@ -1,8 +1,8 @@
+zdzi0994
+
 Week 8 Quizz
 
-Week 8 Assignment 
-
-<h1>**Part 1: Imaging Technique Inspiration**</h1>
+<h1>Part 1: Imaging Technique Inspiration</h1>
 
 <h2>Audio Reactive to Visuals<h/2>
 
@@ -28,13 +28,19 @@ Example 2
 
 
 
-Part 2: Coding Technique Exploration
+<h1>Part 2: Coding Technique Exploration</h1>
 
-Audio reactive visuals use p5.js to create visuals which are generated/manipulated through sound. p5.js can read sound through amplitude or frequency which can be inputted through a microphone or by uploading a track into p5 and analysing the frequency using fft methods. Learning how to use the fft method can be useful for the major project as it can help us manipulate our groups chosen painting through reaction to different sounds. As we are considering mimicking an arcade game for our final project, it could be interesting to use arcade sounds to affect the representation of the painting 
+p5.SoundFile + FFT()
 
+To create sound effects based on user interaction we would need to employ the p5.SoundFile functions, first using soundUpload() to upload our sounds to the library. To deploy, it is important to consider soundFormats() for compatibility across different web browsers. The idea here would be to attach play() and pause() functions to user and/or object interactions through if/else statements. Furthermore, using sound we can enhance the user's experience by creating a dynamic game interface through analysing and using volume and amplitude. We can analyze these variables using FFT() giving us parameters to work with. Another approach would be to allow users to use their microphone (audioIn()) and control the game using their voice. 
 
+**Exmaples:**
 
-![RYOJI IKEDA : THE TRANSFINITE IMG1](assets/RYOJI1.png)
-![RYOJI IKEDA : THE TRANSFINITE IMG2](assets/RYOJI2.png)
+Exmaple of p5js sound interactive game by Jon Froehlich: 
 
-![Video of RYOJI IKEDA : THE TRANSFINITE](https://www.youtube.com/watch?v=omDK2Cm2mwo)
+![Screenshot of Sound Interactive Game](assets/SoundInteractiveGameScreenshot.png)
+![Screenshot of Sound Interactive Game CODE 1](assets/SoundInteractiveGameCODE1.png)
+![Screenshot of Sound Interactive Game CODE 2](assets/SoundInteractiveGameCODE2.png)
+
+Link to game and code: 
+![Click to PLAY and see full code and ](https://editor.p5js.org/jonfroehlich/sketches/UvFAcoUgu)
