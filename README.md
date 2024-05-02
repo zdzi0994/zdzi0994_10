@@ -27,7 +27,6 @@ Example 2
 
 
 
-
 <h1>Part 2: Coding Technique Exploration</h1>
 
 <h2>p5.SoundFile + FFT()<h/2>
