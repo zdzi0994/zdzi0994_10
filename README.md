@@ -2,11 +2,11 @@
 
 Week 8 Assignment 
 
-Part 1: Imaging Technique Inspiration  
+<h1>**Part 1: Imaging Technique Inspiration**</h1>
 
-Audio Reactive to Visuals
+<h2>Audio Reactive to Visuals<h/2>
 
-For my teams group project we are using Piet Mondrian 'Broadway Boogie Woogie' which we think we could transform into a basic retro-looking game, our initital inspiration was Pac-Man. I think an interesting element of pacman is the way sound is used to highlight different interactions with the (limited) space. Each new interaction the character has, is paired with a sound effect both enhancing the expeirence as a communication with the user. This could be an interesting way to think about the sound component we need to incorporate in our major project: input sound effects for various interactions/manipulations that happen with the objects in our gameplay. 
+<h3>For my teams group project we are using Piet Mondrian 'Broadway Boogie Woogie' which we think we could transform into a basic retro-looking game, our initital inspiration was Pac-Man. I think an interesting element of pacman is the way sound is used to highlight different interactions with the (limited) space. Each new interaction the character has, is paired with a sound effect both enhancing the expeirence as a communication with the user. This could be an interesting way to think about the sound component we need to incorporate in our major project: input sound effects for various interactions/manipulations that happen with the objects in our gameplay. <h3>
 
 **Exmaples:**
 
