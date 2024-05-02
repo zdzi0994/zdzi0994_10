@@ -43,4 +43,4 @@ Exmaple of p5js sound interactive game by Jon Froehlich:
 ![Screenshot of Sound Interactive Game CODE 2](assets/SoundInteractiveGameCODE1.png)
 
 Link to game and code: 
-![Click to PLAY and see full code and ](https://editor.p5js.org/jonfroehlich/sketches/UvFAcoUgu)
+![Click to PLAY and see full code](https://editor.p5js.org/jonfroehlich/sketches/UvFAcoUgu)
