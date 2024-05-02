@@ -39,8 +39,8 @@ To create sound effects based on user interaction we would need to employ the p5
 Exmaple of p5js sound interactive game by Jon Froehlich: 
 
 ![Screenshot of Sound Interactive Game](assets/SoundInteractiveGameScreenshot.png)
-![Screenshot of Sound Interactive Game CODE 1](assets/SoundInteractiveGameCODE1.png)
-![Screenshot of Sound Interactive Game CODE 2](assets/SoundInteractiveGameCODE2.png)
+![Screenshot of Sound Interactive Game CODE 1](assets/SoundInteractiveGameCODE2.png)
+![Screenshot of Sound Interactive Game CODE 2](assets/SoundInteractiveGameCODE1.png)
 
 Link to game and code: 
 ![Click to PLAY and see full code and ](https://editor.p5js.org/jonfroehlich/sketches/UvFAcoUgu)
