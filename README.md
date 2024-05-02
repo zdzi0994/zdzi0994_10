@@ -30,11 +30,11 @@ Example 2
 
 <h1>Part 2: Coding Technique Exploration</h1>
 
-To create sound effects based on user interaction we would need to employ the p5.SoundFile functions, first using soundUpload() to upload our sounds to the library. To deploy, it is important to consider soundFormats() for compatibility across different web browsers. The idea here would be to attach play() and pause() functions to user and/or object interactions through if/else statements. Furthermore, using sound we can enhance the user's experience by creating a dynamic game interface through analysing and using volume and amplitude. We can analyse these variables using FFT() giving us parameters to work with. Another approach would be to allow users to use their microphone (mic()) and control the game using their voice. 
+p5.SoundFile + FFT()
 
+To create sound effects based on user interaction we would need to employ the p5.SoundFile functions, first using soundUpload() to upload our sounds to the library. To deploy, it is important to consider soundFormats() for compatibility across different web browsers. The idea here would be to attach play() and pause() functions to user and/or object interactions through if/else statements. Furthermore, using sound we can enhance the user's experience by creating a dynamic game interface through analysing and using volume and amplitude. We can analyze these variables using FFT() giving us parameters to work with. Another approach would be to allow users to use their microphone (audioIn()) and control the game using their voice. 
 
-
-![RYOJI IKEDA : THE TRANSFINITE IMG1](assets/RYOJI1.png)
+Exmaple of Instalation using 
 ![RYOJI IKEDA : THE TRANSFINITE IMG2](assets/RYOJI2.png)
 
 ![Video of RYOJI IKEDA : THE TRANSFINITE](https://www.youtube.com/watch?v=omDK2Cm2mwo)
